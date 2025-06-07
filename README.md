@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" alt="Welcome Banner" width="100%" />
+  <img src=".png" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#FF9F00;">Ramspheld Onyango Ochieng</span></h1>
