@@ -1,13 +1,13 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="IMG-20250524-WA0024.jpg" alt="Welcome Banner" width="100%" />
+  <img src="IMG-20250524-WA0024.jpg" alt="Ramspheld Onyango Ochieng" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #FF9F00;" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#FF9F00;">Ramspheld Onyango Ochieng</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | 🌱 Tech4Good Advocate | 🧠 Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | 🌍 Tech for Good Advocate | 🤖 AI for Impact | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+%7C+AI+%7C+Django+%7C+React;Building+AI+tools+for+impact;Open+Source+%7C+Community+%7C+Sustainability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=480&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+DevOps;Building+Tech+Solutions+for+Communities;Advocate+for+Sustainable+Digital+Innovation" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,13 +17,13 @@
 <p align="center">
   <a href="mailto:ramspheld.ochieng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ramspheldonyango"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/ramspheldO"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/RamspheldOnyangoOchieng"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/ramspheldO"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/RamspheldOnyangoOchieng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,tailwind,postgres,git,github,vscode,figma,linux,bash" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" height="200"/>
@@ -46,39 +46,42 @@
 
 ### 🚀 Featured Projects
 
-Here are some of my recent impactful works:
+Here are some of my most impactful works:
 
-| Project | Description |
-|--------|-------------|
-| 🔁 [**ReplyMate-Agent**](https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent) | Smart AI agent for automated replies in messaging platforms. |
-| 🌱 [**GraniteAgro**](https://github.com/RamspheldOnyangoOchieng/GraniteAgro) | AI-powered platform optimizing agribusiness workflows in Kenya. |
-| ♻️ [**E-Waste Collection System**](https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service) | Django app for mobile e-waste collection and recycling. |
-| 🌞 [**Smart Solar Drying**](https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System) | Solar-powered crop drying system with IoT sensors. |
-| 📊 [**Smart Expense Tracker**](https://github.com/RamspheldOnyangoOchieng/Smart-Expense-Tracker) | Finance tracker with a beautiful UI and analytics. |
-| 📚 [**Teach2Give Tasks**](https://github.com/RamspheldOnyangoOchieng/Teach2Give-Tasks) | A task management system used in educational impact programs. |
-| 🛠️ [**perky-technologies**](https://github.com/RamspheldOnyangoOchieng/perky-technologies) | R&D lab codebase for various innovation projects. |
+| 🚧 Project | 🌍 Description |
+|-----------|----------------|
+| 🔁 [ReplyMate-Agent](https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent) | Smart AI agent automating replies across messaging platforms. |
+| 🌱 [GraniteAgro](https://github.com/RamspheldOnyangoOchieng/GraniteAgro) | Empowering Kenyan agribusiness with AI-driven workflow automation. |
+| ♻️ [E-Waste Collection System](https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service) | Sustainable waste management using Django & geolocation tech. |
+| 🌞 [Smart Solar Drying](https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System) | AI + IoT solar drying system for post-harvest value chains. |
+| 📊 [Smart Expense Tracker](https://github.com/RamspheldOnyangoOchieng/Smart-Expense-Tracker) | Finance app with smart analytics and stunning UI. |
+| 📚 [Teach2Give Tasks](https://github.com/RamspheldOnyangoOchieng/Teach2Give-Tasks) | Education project management system to support impact tracking. |
+| 🧪 [perky-technologies](https://github.com/RamspheldOnyangoOchieng/perky-technologies) | Innovation lab codebase driving frontier solutions. |
 
-🔗 _Find more on my [GitHub Repositories](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
+🔗 _Explore more in my [GitHub Repositories](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
 
 ---
 
-### 🧠 Currently Learning
-- 🤖 Advanced AI & Machine Learning
-- ☁️ Cloud DevOps (AWS, Railway)
-- 📱 Mobile-First Responsive Design
-- 🌍 Sustainable Tech for Development
+### 📚 Currently Exploring
+
+- 🤖 AI & ML for Social Good
+- ☁️ Cloud Platforms: AWS, Railway, IBM Cloud
+- 📱 Mobile-First, Accessible Design
+- 🌍 Sustainable, Climate-Aware Tech Systems
 
 ---
 
 ### 🎯 My Mission
 
-> "To build tech solutions that **empower African communities**, bridge digital gaps, and promote sustainable development."
+> "To develop and scale **impact-first technologies** that bridge digital divides, empower African communities, and support the **UN Sustainable Development Goals**."
 
 ---
 
-### 💬 Fun Fact
+### 🎉 Fun Facts
 
-- I love **chess♟️**, hackathons⚡, and solving real-world problems using **AI and code**. I also enjoy mentoring young innovators! 🚀
+- 🎓 Mentor at community tech hubs
+- ♟️ Avid chess player and hackathon enthusiast
+- 🌍 Advocate for equitable access to AI education
 
 ---
 
@@ -88,11 +91,12 @@ Here are some of my recent impactful works:
 
 ---
 
-### 🧩 Let's Collaborate
+### 🤝 Let’s Collaborate
 
-> 💡 I'm open to collaborating on community-based tech, AI-for-good, or climate innovation projects. Let’s connect!
+> 💡 I’m open to partnerships in open source, AI-for-Good, climate tech, or youth innovation programs. Let’s build something meaningful together.
+
+> 📍 _Based in Nairobi, Kenya — Connected to the world._
 
 ---
 
-> _📍 Nairobi, Kenya_ &nbsp;|&nbsp; 💻 Always online & building!
-
+Let me know if you'd like me to convert this into a markdown `.md` version for your GitHub profile or help add collapsible sections for even cleaner interaction.
