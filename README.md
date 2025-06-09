@@ -1,18 +1,21 @@
-<!-- Profile Banner -->
-<div align="center">
-  <img src="IMG-20250524-WA0024.jpg" alt="Ramspheld Onyango Ochieng" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF9F00; object-fit: cover;" />
+<!-- Profile Header -->
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+  <!-- Profile Image -->
+  <div style="flex-shrink: 0;">
+    <img src="IMG-20250524-WA0024.jpg" alt="Ramspheld Onyango Ochieng" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF9F00; object-fit: cover;" />
+  </div>
+  
+  <!-- Profile Info -->
+  <div style="flex-grow: 1;">
+    <h1 style="margin: 0 0 0.5rem 0;">Ramspheld Onyango Ochieng</h1>
+    <h3 style="margin: 0 0 1rem 0;">Full Stack Developer · AI for Social Impact · Tech for Sustainability</h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=460&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+Cloud;Building+Inclusive+Tech+for+Communities" alt="Typing SVG" />
+  </div>
 </div>
-
-<h1 align="center">Ramspheld Onyango Ochieng</h1>
-<h3 align="center">Full Stack Developer · AI for Social Impact · Tech for Sustainability</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=460&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+Cloud;Building+Inclusive+Tech+for+Communities" alt="Typing SVG" />
-</p>
 
 ---
 
-### 🌍 Let’s Connect
+###  Let's Connect
 
 <p align="center">
   <a href="mailto:ramspheld.ochieng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -23,7 +26,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,flask,js,tailwind,postgres,git,github,vscode,figma,linux" />
@@ -31,7 +34,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -40,11 +43,11 @@
 | [Smart Solar Drying](https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System) | IoT-based sustainable agriculture tool |
 | [ReplyMate Agent](https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent) | Intelligent reply agent using LLMs |
 
-📁 _More on my [GitHub Projects](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
+ _More on my [GitHub Projects](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
@@ -53,11 +56,11 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 
 > Passionate about building inclusive, AI-powered solutions that advance digital equity, climate resilience, and sustainable innovation in Africa.
 
-🧠 Mentor | 🛠️ Builder | 🌱 Lifelong Learner | 🌍 Nairobi-based, globally active
+## Mentor |  Builder |  Lifelong Learner |  Nairobi-based, globally active
 
 ---
 
