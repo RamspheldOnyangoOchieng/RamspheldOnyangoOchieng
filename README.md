@@ -1,9 +1,5 @@
 <!-- Profile Header -->
 <div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-  <!-- Profile Image -->
-  <div style="flex-shrink: 0;">
-    <img src="IMG-20250524-WA0024.jpg" alt="Ramspheld Onyango Ochieng" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF9F00; object-fit: cover;" />
-  </div>
   
   <!-- Profile Info -->
   <div style="flex-grow: 1;">
