@@ -1,18 +1,30 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="IMG-20250524-WA0024.jpg" alt="Ramspheld Onyango Ochieng" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #FF9F00;" />
-</p>
+<div align="center">
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; border: 4px solid #FF9F00; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="IMG-20250524-WA0024.jpg" alt="Ramspheld Onyango Ochieng" width="200" height="200" style="object-fit: cover;" />
+  </div>
+</div>
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#FF9F00;">Ramspheld Onyango Ochieng</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 🌍 Tech for Good Advocate | 🤖 AI for Impact | 🌱 Lifelong Learner</h3>
+<h1 align="center">Ramspheld Onyango Ochieng</h1>
+<h3 align="center">Full Stack Developer | Technology for Social Impact | AI Solutions Architect | Continuous Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&width=480&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+DevOps;Building+Tech+Solutions+for+Communities;Advocate+for+Sustainable+Digital+Innovation" alt="Typing SVG" />
 </p>
 
+<!-- Days Since Started Coding -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Days%20Since%20Started%20Coding-{DAYS_SINCE_START}-FF9F00?style=for-the-badge&logo=github" alt="Days Since Started Coding" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/RamspheldOnyangoOchieng/RamspheldOnyangoOchieng/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ---
 
-### 🔗 Connect with Me
+### Professional Network
 
 <p align="center">
   <a href="mailto:ramspheld.ochieng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -23,7 +35,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+### Technical Expertise
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,tailwind,postgres,git,github,vscode,figma,linux,bash" />
@@ -31,7 +43,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### Development Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" height="200"/>
@@ -44,59 +56,49 @@
 
 ---
 
-### 🚀 Featured Projects
+### Key Projects
 
-Here are some of my most impactful works:
+| Project | Description |
+|---------|-------------|
+| [ReplyMate-Agent](https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent) | Intelligent AI agent for automated messaging platform responses |
+| [GraniteAgro](https://github.com/RamspheldOnyangoOchieng/GraniteAgro) | AI-powered workflow automation for Kenyan agribusiness |
+| [E-Waste Collection System](https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service) | Sustainable waste management platform using Django and geolocation |
+| [Smart Solar Drying](https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System) | AI and IoT integrated solar drying system for agricultural value chains |
+| [Smart Expense Tracker](https://github.com/RamspheldOnyangoOchieng/Smart-Expense-Tracker) | Financial management application with advanced analytics |
+| [Teach2Give Tasks](https://github.com/RamspheldOnyangoOchieng/Teach2Give-Tasks) | Educational project management system for impact tracking |
+| [Perky Technologies](https://github.com/RamspheldOnyangoOchieng/perky-technologies) | Innovation laboratory for cutting-edge solutions |
 
-| 🚧 Project | 🌍 Description |
-|-----------|----------------|
-| 🔁 [ReplyMate-Agent](https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent) | Smart AI agent automating replies across messaging platforms. |
-| 🌱 [GraniteAgro](https://github.com/RamspheldOnyangoOchieng/GraniteAgro) | Empowering Kenyan agribusiness with AI-driven workflow automation. |
-| ♻️ [E-Waste Collection System](https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service) | Sustainable waste management using Django & geolocation tech. |
-| 🌞 [Smart Solar Drying](https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System) | AI + IoT solar drying system for post-harvest value chains. |
-| 📊 [Smart Expense Tracker](https://github.com/RamspheldOnyangoOchieng/Smart-Expense-Tracker) | Finance app with smart analytics and stunning UI. |
-| 📚 [Teach2Give Tasks](https://github.com/RamspheldOnyangoOchieng/Teach2Give-Tasks) | Education project management system to support impact tracking. |
-| 🧪 [perky-technologies](https://github.com/RamspheldOnyangoOchieng/perky-technologies) | Innovation lab codebase driving frontier solutions. |
-
-🔗 _Explore more in my [GitHub Repositories](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
+_View additional projects in my [GitHub Repositories](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
 
 ---
 
-### 📚 Currently Exploring
+### Current Focus Areas
 
-- 🤖 AI & ML for Social Good
-- ☁️ Cloud Platforms: AWS, Railway, IBM Cloud
-- 📱 Mobile-First, Accessible Design
-- 🌍 Sustainable, Climate-Aware Tech Systems
-
----
-
-### 🎯 My Mission
-
-> "To develop and scale **impact-first technologies** that bridge digital divides, empower African communities, and support the **UN Sustainable Development Goals**."
+- Artificial Intelligence and Machine Learning for Social Impact
+- Cloud Infrastructure: AWS, Railway, IBM Cloud
+- Accessible and Mobile-First Design
+- Sustainable Technology Systems
 
 ---
 
-### 🎉 Fun Facts
+### Professional Mission
 
-- 🎓 Mentor at community tech hubs
-- ♟️ Avid chess player and hackathon enthusiast
-- 🌍 Advocate for equitable access to AI education
+> "To develop and scale impact-driven technologies that bridge digital divides, empower African communities, and support the UN Sustainable Development Goals."
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
-</p>
+### Professional Background
+
+- Technical Mentor at Community Technology Hubs
+- Active Participant in Technology Innovation Challenges
+- Advocate for Equitable Access to AI Education
 
 ---
 
-### 🤝 Let’s Collaborate
+### Professional Engagement
 
-> 💡 I’m open to partnerships in open source, AI-for-Good, climate tech, or youth innovation programs. Let’s build something meaningful together.
+> I welcome opportunities for collaboration in open source development, AI for social good, climate technology, and youth innovation initiatives.
 
-> 📍 _Based in Nairobi, Kenya — Connected to the world._
+> Based in Nairobi, Kenya — Connected to the global technology community.
 
----
-
-Let me know if you'd like me to convert this into a markdown `.md` version for your GitHub profile or help add collapsible sections for even cleaner interaction.
+--- 
