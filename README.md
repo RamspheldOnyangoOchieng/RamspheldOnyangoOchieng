@@ -27,18 +27,17 @@
 
 ### 🚀 Featured Projects
 <div align="center">
-  <!-- Use GitHub API-based dynamic pinned repos or pinned cards -->
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/RamspheldOnyangoOchieng/GraniteAgro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=GraniteAgro&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=GraniteAgro&theme=radical" />
         </a>
         <br>AI-driven agribusiness workflow & market intelligence
       </td>
       <td align="center">
         <a href="https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=E-Waste-Mobile-Collection-Service&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=E-Waste-Mobile-Collection-Service&theme=radical" />
         </a>
         <br>Smart waste management with Django & maps
       </td>
@@ -46,13 +45,13 @@
     <tr>
       <td align="center">
         <a href="https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=Smart-Solar-Drying-System&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=Smart-Solar-Drying-System&theme=radical" />
         </a>
         <br>IoT-based sustainable agriculture tool
       </td>
       <td align="center">
         <a href="https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=ReplyMate-Agent&theme=tokyonight" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=ReplyMate-Agent&theme=radical" />
         </a>
         <br>Intelligent reply agent using LLMs
       </td>
@@ -64,17 +63,21 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Animated Activity
 <div align="center">
-  <!-- Real-time stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&count_private=true&theme=radical&hide_border=false&hide_title=false&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamspheldOnyangoOchieng&theme=radical&hide_border=false" width="48%" />
 </div>
 
-<!-- Optional: visitor count & GitHub trophies -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RamspheldOnyangoOchieng&style=flat-square&color=blue" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RamspheldOnyangoOchieng&theme=tokyonight" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=RamspheldOnyangoOchieng&theme=react-dark&hide_border=false" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamspheldOnyangoOchieng&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
 </div>
 
 ---
@@ -89,8 +92,3 @@
 
 ### ⚡ Fun Fact
 I love combining AI, sustainability, and technology to build solutions that **impact communities positively**.
-
----
-
-### 🖥 Real-time GitHub Activity
-![Ramspheld's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RamspheldOnyangoOchieng&theme=github)
