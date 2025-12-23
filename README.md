@@ -1,18 +1,14 @@
 <!-- Profile Header -->
-<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-  
-  <!-- Profile Info -->
-  <div style="flex-grow: 1;">
-    <h1 style="margin: 0 0 0.5rem 0;">Ramspheld Onyango Ochieng</h1>
-    <h3 style="margin: 0 0 1rem 0;">Full Stack Developer · AI for Social Impact · Tech for Sustainability</h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=460&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+Cloud;Building+Inclusive+Tech+for+Communities" alt="Typing SVG" />
-  </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+Cloud;Building+Inclusive+Tech+for+Communities" alt="Typing SVG" />
 </div>
+
+<h1 align="center">Hi, I'm Ramspheld Onyango Ochieng 👋</h1>
+<h3 align="center">Full Stack Developer · AI for Social Impact · Tech for Sustainability</h3>
 
 ---
 
-###  Let's Connect
-
+### Let's Connect
 <p align="center">
   <a href="mailto:ramspheld.ochieng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ramspheldonyango"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -22,41 +18,68 @@
 
 ---
 
-###  Skills & Tools
-
+### 🛠 Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,flask,js,tailwind,postgres,git,github,vscode,figma,linux" />
 </p>
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [GraniteAgro](https://github.com/RamspheldOnyangoOchieng/GraniteAgro) | AI-driven agribusiness workflow & market intelligence |
-| [E-Waste Tracker](https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service) | Smart waste management with Django & maps |
-| [Smart Solar Drying](https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System) | IoT-based sustainable agriculture tool |
-| [ReplyMate Agent](https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent) | Intelligent reply agent using LLMs |
-
- _More on my [GitHub Projects](https://github.com/RamspheldOnyangoOchieng?tab=repositories)_
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RamspheldOnyangoOchieng/GraniteAgro">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=GraniteAgro&theme=tokyonight" />
+        </a>
+        <br>AI-driven agribusiness workflow & market intelligence
+      </td>
+      <td align="center">
+        <a href="https://github.com/RamspheldOnyangoOchieng/E-Waste-Mobile-Collection-Service">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=E-Waste-Mobile-Collection-Service&theme=tokyonight" />
+        </a>
+        <br>Smart waste management with Django & maps
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/RamspheldOnyangoOchieng/Smart-Solar-Drying-System">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=Smart-Solar-Drying-System&theme=tokyonight" />
+        </a>
+        <br>IoT-based sustainable agriculture tool
+      </td>
+      <td align="center">
+        <a href="https://github.com/RamspheldOnyangoOchieng/ReplyMate-Agent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RamspheldOnyangoOchieng&repo=ReplyMate-Agent&theme=tokyonight" />
+        </a>
+        <br>Intelligent reply agent using LLMs
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub>More projects on my <a href="https://github.com/RamspheldOnyangoOchieng?tab=repositories">GitHub Repositories</a></sub>
+</div>
 
 ---
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamspheldOnyangoOchieng&theme=github-dark-blue&hide_border=true" height="160"/>
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
+</div>
 
 ---
 
-###  About Me
-
+### 💡 About Me
 > Passionate about building inclusive, AI-powered solutions that advance digital equity, climate resilience, and sustainable innovation in Africa.
 
-## Mentor |  Builder |  Lifelong Learner |  Nairobi-based, globally active
+**Roles:** Mentor | Builder | Lifelong Learner  
+**Location:** Nairobi, Kenya (Globally active)
 
 ---
+
+### ⚡ Fun Fact
+I love combining AI, sustainability, and technology to build solutions that **impact communities positively**.  
 
