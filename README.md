@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+Cloud;Building+Inclusive+Tech+for+Communities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=AI+%7C+Django+%7C+React+%7C+Python+%7C+Cloud;Building+Inclusive+Tech+for+Communities" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi, I'm Ramspheld Onyango Ochieng 👋</h1>
@@ -8,7 +8,7 @@
 
 ---
 
-### Let's Connect
+### 🔗 Let's Connect
 <p align="center">
   <a href="mailto:ramspheld.ochieng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ramspheldonyango"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -26,8 +26,8 @@
 ---
 
 ### 🚀 Featured Projects
-
 <div align="center">
+  <!-- Use GitHub API-based dynamic pinned repos or pinned cards -->
   <table>
     <tr>
       <td align="center">
@@ -64,10 +64,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
+  <!-- Real-time stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</div>
+
+<!-- Optional: visitor count & GitHub trophies -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RamspheldOnyangoOchieng&style=flat-square&color=blue" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RamspheldOnyangoOchieng&theme=tokyonight" />
 </div>
 
 ---
@@ -81,5 +88,9 @@
 ---
 
 ### ⚡ Fun Fact
-I love combining AI, sustainability, and technology to build solutions that **impact communities positively**.  
+I love combining AI, sustainability, and technology to build solutions that **impact communities positively**.
 
+---
+
+### 🖥 Real-time GitHub Activity
+![Ramspheld's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RamspheldOnyangoOchieng&theme=github)
