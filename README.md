@@ -10,8 +10,8 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="320">
-      <img src="./IMG-20250524-WA0024.jpg" width="300" style="border-radius: 15px; border: 3px solid #39FF14;" alt="Ramspheld Onyango" />
+    <td valign="top" width="280">
+      <img src="./IMG-20250524-WA0024.jpg" width="260" style="border-radius: 15px; border: 3px solid #39FF14;" alt="Ramspheld Onyango" />
     </td>
     <td valign="top" style="padding-left: 20px;">
       <h1>Ramspheld Onyango Ochieng</h1>
@@ -20,25 +20,22 @@
         🌍 <i>Passionate about building inclusive, AI-powered solutions for digital equity and climate resilience in Africa.</i>
       </p>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=radical&hide_border=false" width="400" alt="GitHub Stats" />
+      <!-- Using Metrics.lecoq.io as a more stable alternative for stats and languages -->
+      <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=header,activity,community,repositories&base.indepth=true&config.timezone=Africa/Nairobi&theme=radical" width="450" alt="GitHub Metrics" />
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=radical&hide_border=false" width="400" alt="Top Languages" />
+      <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=Africa/Nairobi&theme=radical" width="450" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamspheldOnyangoOchieng&theme=radical&hide_border=false" width="100%" alt="Contribution Streak" />
-</div>
-
 ---
 
-### 🚀 Contribution Activity Graph
+### 🚀 Activity & Coding Habits
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamspheldOnyangoOchieng&theme=radical&hide_border=false&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=200&habits.facts=true&habits.charts=true&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Detailed Activity" />
 </div>
 
 ---
