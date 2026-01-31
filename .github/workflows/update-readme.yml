@@ -3,6 +3,8 @@ name: Update README Activity
 on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
+  push:
+    branches: ["main", "master"]
   workflow_dispatch: # Allows manual trigger
 
 jobs:
