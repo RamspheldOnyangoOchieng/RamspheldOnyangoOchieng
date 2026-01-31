@@ -11,9 +11,9 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="280">
-      <img src="./IMG-20250524-WA0024.jpg" width="260" style="border-radius: 15px; border: 3px solid #39FF14;" alt="Ramspheld Onyango" />
+      <img src="./IMG-20250524-WA0024.jpg" width="260" style="border-radius: 20px; border: 4px solid #39FF14; box-shadow: 0 4px 15px rgba(57, 255, 20, 0.3);" alt="Ramspheld Onyango" />
     </td>
-    <td valign="top" style="padding-left: 20px;">
+    <td valign="top" style="padding-left: 30px;">
       <h1>Ramspheld Onyango Ochieng</h1>
       <p>
         🚀 <b>AI Engineer · Full Stack Developer · Sustainability Advocate</b><br>
@@ -31,31 +31,46 @@
 
 ---
 
-### 🚀 Activity & Achievement Highlights
+### � Tech Stack & Expertise
 
 <div align="center">
-  <!-- Replaced broken Trophies with Metrics Achievements (much more stable) -->
-  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&achievements=1&achievements.threshold=B&achievements.limit=8&achievements.display=compact&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Achievements" />
-</div>
+  
+  <table>
+    <tr>
+      <td align="center" width="200"><b>Languages</b></td>
+      <td align="center" width="200"><b>Frontend</b></td>
+      <td align="center" width="200"><b>Backend & AI</b></td>
+      <td align="center" width="200"><b>DevOps & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py,js,ts,bash&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,tensorflow&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,github,vscode,figma&theme=dark" />
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <!-- Isometric Calendar and Habits inside Activity section -->
-  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=200&habits.facts=true&habits.charts=true&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Detailed Activity" />
 </div>
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🚀 Activity & Achievement Highlights
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,pytorch,tensorflow,bash&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,git&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,github,vercel&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&achievements=1&achievements.threshold=B&achievements.limit=8&achievements.display=compact&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Achievements" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=200&habits.facts=true&habits.charts=true&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Detailed Activity" />
+</div>
 
 ---
 
