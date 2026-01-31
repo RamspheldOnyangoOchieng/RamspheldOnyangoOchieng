@@ -8,24 +8,24 @@
 
 <br>
 
-<div align="center">
-  <img src="./IMG-20250524-WA0024.jpg" width="200px" style="border-radius: 50%; border: 4px solid #39FF14;" alt="Ramspheld Onyango" />
-  <h1>Ramspheld Onyango Ochieng</h1>
-  <p>
-    <b>AI Engineer · Full Stack Developer · Sustainability Advocate</b><br>
-    <i>Passionate about building inclusive, AI-powered solutions for digital equity and climate resilience in Africa.</i>
-  </p>
-</div>
-
----
-
-### 📊 Github Stats Overview
-
-<div align="center">
-  <!-- Use a slightly different instance of Stats if possible, or just the main one with no extra params -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=radical&hide_border=false" height="195px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=radical&hide_border=false" height="195px" alt="Top Languages" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="320">
+      <img src="./IMG-20250524-WA0024.jpg" width="300" style="border-radius: 15px; border: 3px solid #39FF14;" alt="Ramspheld Onyango" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      <h1>Ramspheld Onyango Ochieng</h1>
+      <p>
+        🚀 <b>AI Engineer · Full Stack Developer · Sustainability Advocate</b><br>
+        🌍 <i>Passionate about building inclusive, AI-powered solutions for digital equity and climate resilience in Africa.</i>
+      </p>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=radical&hide_border=false" width="400" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=radical&hide_border=false" width="400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
