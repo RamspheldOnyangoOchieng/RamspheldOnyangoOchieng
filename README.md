@@ -20,9 +20,8 @@
         🌍 <i>Passionate about building inclusive, AI-powered solutions for digital equity and climate resilience in Africa.</i>
       </p>
       <br>
-      <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=header,activity,community,repositories&base.indepth=true&config.timezone=Africa/Nairobi&theme=radical" width="450" alt="GitHub Metrics" />
-      <br><br>
-      <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=Africa/Nairobi&theme=radical" width="450" alt="Top Languages" />
+      <!-- This image is generated automatically by the Metrics GitHub Action -->
+      <img src="./github-metrics.svg" width="450" alt="GitHub Metrics (Self-Updating)" />
     </td>
   </tr>
 </table>
@@ -31,7 +30,7 @@
 
 ---
 
-### � Tech Stack & Expertise
+### 🛠 Tech Stack & Expertise
 
 <div align="center">
   
@@ -58,18 +57,6 @@
     </tr>
   </table>
 
-</div>
-
----
-
-### 🚀 Activity & Achievement Highlights
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&achievements=1&achievements.threshold=B&achievements.limit=8&achievements.display=compact&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Achievements" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=200&habits.facts=true&habits.charts=true&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Detailed Activity" />
 </div>
 
 ---
