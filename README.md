@@ -20,7 +20,6 @@
         🌍 <i>Passionate about building inclusive, AI-powered solutions for digital equity and climate resilience in Africa.</i>
       </p>
       <br>
-      <!-- Using Metrics.lecoq.io as a more stable alternative for stats and languages -->
       <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=header,activity,community,repositories&base.indepth=true&config.timezone=Africa/Nairobi&theme=radical" width="450" alt="GitHub Metrics" />
       <br><br>
       <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&config.timezone=Africa/Nairobi&theme=radical" width="450" alt="Top Languages" />
@@ -32,9 +31,15 @@
 
 ---
 
-### 🚀 Activity & Coding Habits
+### 🚀 Activity & Achievement Highlights
 
 <div align="center">
+  <!-- Replaced broken Trophies with Metrics Achievements (much more stable) -->
+  <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&achievements=1&achievements.threshold=B&achievements.limit=8&achievements.display=compact&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Achievements" />
+</div>
+
+<div align="center">
+  <!-- Isometric Calendar and Habits inside Activity section -->
   <img src="https://metrics.lecoq.io/RamspheldOnyangoOchieng?template=classic&base=&isocalendar=1&isocalendar.duration=half-year&habits=1&habits.from=200&habits.facts=true&habits.charts=true&config.timezone=Africa/Nairobi&theme=radical" width="100%" alt="Detailed Activity" />
 </div>
 
@@ -51,14 +56,6 @@
   <br>
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,github,vercel&theme=dark" />
 </p>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamspheldOnyangoOchieng&theme=radical&no-frame=false&margin-w=10" width="100%" alt="Trophies" />
-</div>
 
 ---
 
