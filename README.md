@@ -22,14 +22,15 @@
 ### 📊 Github Stats Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=radical&hide_border=false" height="195px" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=radical&hide_border=false" height="195px" alt="Languages" />
+  <!-- Use a slightly different instance of Stats if possible, or just the main one with no extra params -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RamspheldOnyangoOchieng&show_icons=true&theme=radical&hide_border=false" height="195px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamspheldOnyangoOchieng&layout=compact&theme=radical&hide_border=false" height="195px" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamspheldOnyangoOchieng&theme=radical&hide_border=false" width="100%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamspheldOnyangoOchieng&theme=radical&hide_border=false" width="100%" alt="Contribution Streak" />
 </div>
 
 ---
