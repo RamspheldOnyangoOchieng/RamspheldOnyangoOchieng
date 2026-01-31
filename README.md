@@ -62,9 +62,9 @@
 ---
 
 ### 🕒 Latest GitHub Activity
-<!-- START_SECTION:activity -->
+<!--START_SECTION:activity-->
 *Currently fetching my latest moves on GitHub...*
-<!-- END_SECTION:activity -->
+<!--END_SECTION:activity-->
 
 ---
 
