@@ -14,38 +14,37 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          # Options
           user: RamspheldOnyangoOchieng
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_timezone: Africa/Nairobi
           
-          # Output file name
+          # Output file
           filename: github-metrics.svg
           
-          # Lines of code (Shows impact)
-          plugin_lines: yes
+          # Use a commit based approach to save the file
+          config_output: svg
           
-          # Increased limits for active users
-          plugin_activity_load: 1000
+          # Performance tweaks for high-volume accounts
+          plugin_activity_load: 600
           plugin_activity_days: 0
           
-          # Achievements
+          # Lines of code
+          plugin_lines: yes
+          
+          # Achievements (Reduced limit to prevent timeout)
           plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_limit: 8
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 5
           plugin_achievements_display: compact
           
-          # Habits
+          # Habits (Crucial for 200+ commits/day)
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_habits_from: 500
+          plugin_habits_days: 7
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
-          
-          # Languages
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
           
           # Calendar
           plugin_isocalendar: yes
